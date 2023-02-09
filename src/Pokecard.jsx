@@ -20,6 +20,7 @@ class Pokecard extends Component {
 				<div className="Pokecard-data"> Exp: {this.props.expPost}</div>
 				{/* type={p.type} exp={p.base_experience} */}
 			</div>
+			// Cardsss
 		)
 	}
 }
